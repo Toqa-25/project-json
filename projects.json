@@ -1,0 +1,140 @@
+{
+  "htmlCssProjects" :
+    {
+        "websites": [
+                        {
+                            "projectName": "rocker furnture website " ,
+                            "projectAttr": "rocker-furnture-website"  ,
+                            "projectDesc": "rocker website is templete  build with HTML, and CSS in responsive design for all screens" ,
+                            "projectURL": "https://toqa-25.github.io/unique-templete-2/",
+                            "projectImg": "rocker-templete.png"
+                        },
+                        
+                        {
+                            "projectName": "Doop is an advertising agency " ,
+                            "projectAttr": "doop-agency"  ,
+                            "projectDesc": "Doop agency is PSD file build with HTML, and CSS in responsive design for all screens, it is  from grophberry website " ,
+                            "projectURL": "https://toqa-25.github.io/simply-agency/",
+                            "projectImg": "simply-agency.png"
+                        },
+            
+                        {
+                            "projectName": "Luxestate is Real-Estate Company" ,
+                            "projectAttr": "Luxestate-Company"  ,
+                            "projectDesc": "Luxestate agency is PSD file build with HTML, and CSS in responsive design for all screens, it is  from grophberry website " ,
+                            "projectURL": "https://toqa-25.github.io/luxstate-project-/",
+                            "projectImg": "luxstate.png"
+                        }
+            
+        ]           
+        ,
+        "HTML-Email": [
+            {
+                "projectName": "clipboard landing page" ,
+                "projectAttr": "clipboard-landing-page"  ,
+                "projectDesc": "clipboard agency is PSD design build with HTML, and CSS in responsive design for all screens, it is  from frontendmentor  website " ,
+                "projectURL": "https://toqa-25.github.io/clipboard-landing-page/",
+                "projectImg": "clipboard-landing-page.png"
+            },
+            {
+                "projectName": "meet landing page" ,
+                "projectAttr": "meet-landing-page"  ,
+                "projectDesc": "meet agency is figma design build with HTML, and CSS in responsive design for all screens, it is  from frontendmentor  website " ,
+                "projectURL": "https://toqa-25.github.io/landing-meeting-page/",
+                "projectImg": "meet-landing-page.png"
+            },
+            {
+                "projectName": "cloud power" ,
+                "projectAttr": "cloud-power"  ,
+                "projectDesc": "cloud power is psd design build with HTML, and CSS in responsive design for all screens . " ,
+                "projectURL": "https://toqa-25.github.io/html-email-1/",
+                "projectImg": "cloud-power.png"
+            }
+        ]
+    },
+    "htmlCssJsProjects" :
+    {
+        "websites" : [
+                    {
+                        "projectName": "travel website" ,
+                        "projectAttr": "travel-website"  ,
+                        "projectDesc": "travel website is website build with HTML, CSS, JS, and SASS. It is consist of 5 pages in responsive design for all screens. in this design we used AOS liberary to make it more dynamic and more attractive." ,
+                        "projectURL": "https://toqa-25.github.io/travel-website/",
+                        "projectImg": "travel-website.png"
+                    },
+                    
+                    {
+                        "projectName": "coffe shop" ,
+                        "projectAttr": "coffe-shop"  ,
+                        "projectDesc": "coffe website is website build with HTML, CSS, and JS. It is consist of 5 pages in responsive design for all screens. this website with dark, and ligt mood, so you can choose your favorite mood." ,
+                        "projectURL": "https://toqa-25.github.io/coffe-shop/",
+                        "projectImg": "coffe-website.png"
+                    },
+        
+                    {
+                        "projectName": "bondi website" ,
+                        "projectAttr": "bondi-website"  ,
+                        "projectDesc": "hospital website is psd design build with HTML, CSS, Bootstrap, and JS in responsive design for all screens, this website consist of 3 pages.this design from grophberry website. ",
+                        "projectURL": "https://toqa-25.github.io/Bondi/",
+                        "projectImg": "bondi.png"
+                    },
+                    {
+                        "projectName": "special design" ,
+                        "projectAttr": "special-design"  ,
+                        "projectDesc": "It is landing page consist of 7 sections, build with HTML, CSS, and JS in responsive design for all screens, It contains Setting box to change it's options .in setting box you can change website color, Choose random background or static background, you can show bollet list to scroll to any sections, and you can reset all options"  ,
+                        "projectURL": "https://toqa-25.github.io/Bondi/",
+                        "projectImg": "special-design.png"
+                    },
+                    {
+                        "projectName": "elzero academy" ,
+                        "projectAttr": "elzero-academy"  ,
+                        "projectDesc": "It is landing page consist of 4 sections, build with HTML, CSS, and JSin responsive design for all screens. " ,
+                        "projectURL": "https://toqa-25.github.io/elzeroAcdemey-Templete/",
+                        "projectImg": "elzero-academy.png"
+                    }
+        
+                ]
+    ,
+        "games" :[
+            {
+                "projectName": "memory game" ,
+                "projectAttr": "Memory-Game"  ,
+                "projectDesc": "Memory Game is designed and built in HTML, CSS, and JS . it based in choose to card with the same shap to take point. you can take a break and enjoy with playing" ,
+                "projectURL": "https://toqa-25.github.io/Memory-Game/",
+                "projectImg": "Memory-Game.png"
+            },
+            
+            {
+                "projectName": "HangMan game" ,
+                "projectAttr": "HangMan-game"  ,
+                "projectDesc": "HangMan game is built in HTML, CSS, and JS . you can  choose a random word and player choose a letter if it is in the word it will put it in below empty box, if not it will drow part of Hang HangMan game." ,
+                "projectURL": "https://toqa-25.github.io/HangMan-Game/",
+                "projectImg": "HangMan-Game.png"
+            }
+        ]
+    ,
+        "tools" :[
+            {
+                "projectName": "Todo list" ,
+                "projectAttr": "Todo-list"  ,
+                "projectDesc": "Todo list is a tool to store your tasks and manage them, it consists of, header,input to enter your tasks, and list of current tasks to do list of completed tasks.every tasks consist of task name, check for complete task, and delete button to delete unneeded task .if you enter the same task twice it will alert you. in todo list delete-all button to delete all tasks if you want , and in completed list delete-all button to delete all completed tasks if you want.it was designed by me and I code it in HTML, CSS, and javaScript .",
+                "projectURL": "https://toqa-25.github.io/todo-list/",
+                "projectImg": "todo-list.png"
+              },
+              {
+                "projectName": "fetch repos" ,
+                "projectAttr": "fetch-repos"  ,
+                "projectDesc": "fetch repos is a tool make you able to enter the user name of Github to get all repos of this E-mail it built in HTML, CSS, and javaScript , i used api in this jop to get the needed result . ",
+                "projectURL": "https://toqa-25.github.io/fetch-repos/",
+                "projectImg": "fetch-repos.png"
+              },
+              {
+                "projectName": "quiz app" ,
+                "projectAttr": "quiz-app"  ,
+                "projectDesc":"quiz app coded in HTML, CSS, and javaScript, when you click start button  it fatch questions from API link, each time you clicked in start button you get difference questions .",
+                "projectURL": "https://toqa-25.github.io/quiz-app/",
+                "projectImg": "quiz-app.png"
+                }
+        ]
+    } 
+}

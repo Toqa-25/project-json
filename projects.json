@@ -137,17 +137,16 @@
                 }
         ]
     } ,
-   "BootstrapProjects" :
+    "BootstrapProjects" :
     {
-        "websites" : [
-                    {
-                        "projectName": "bondi website" ,
-                        "projectAttr": "bondi-website"  ,
-                        "projectDesc": "hospital website is psd design build with HTML, CSS, Bootstrap, and JS in responsive design for all screens, this website consist of 3 pages.this design from grophberry website. ",
-                        "projectURL": "https://toqa-25.github.io/Bondi/",
-                        "projectImg": "bondi.png"
-                    }],
-      "landingPages" : [
+        "websites": [
+                        {
+                            "projectName": "bondi website" ,
+                            "projectAttr": "bondi-website"  ,
+                            "projectDesc": "hospital website is psd design build with HTML, CSS, Bootstrap, and JS in responsive design for all screens, this website consist of 3 pages.this design from grophberry website. ",
+                            "projectURL": "https://toqa-25.github.io/Bondi/",
+                            "projectImg": "bondi.png"
+                        },
                         {
                             "projectName": "Luxestate is Real-Estate Company" ,
                             "projectAttr": "Luxestate-Company"  ,
@@ -155,6 +154,61 @@
                             "projectURL": "https://toqa-25.github.io/luxstate-project-/",
                             "projectImg": "luxstate.png"
                         }
-                        ]
+                         
+                  
+            
+        ]           
+       
+    },
+    "convertedPSDFiles" :
+    {
+        "websites": [
+                        {
+                            "projectName": "Luxestate is Real-Estate Company" ,
+                            "projectAttr": "Luxestate-Company"  ,
+                            "projectDesc": "Luxestate agency is PSD file build with HTML, and CSS in responsive design for all screens, it is  from grophberry website " ,
+                            "projectURL": "https://toqa-25.github.io/luxstate-project-/",
+                            "projectImg": "luxstate.png"
+                        },
+                        {
+                            "projectName": "Doop is an advertising agency " ,
+                            "projectAttr": "doop-agency"  ,
+                            "projectDesc": "Doop agency is PSD file build with HTML, and CSS in responsive design for all screens, it is  from grophberry website " ,
+                            "projectURL": "https://toqa-25.github.io/simply-agency/",
+                            "projectImg": "simply-agency.png"
+                        },
+                        {
+                            "projectName": "clipboard landing page" ,
+                            "projectAttr": "clipboard-landing-page"  ,
+                            "projectDesc": "clipboard agency is PSD design build with HTML, and CSS in responsive design for all screens, it is  from frontendmentor  website " ,
+                            "projectURL": "https://toqa-25.github.io/clipboard-landing-page/",
+                            "projectImg": "clipboard-landing-page.png"
+                        },
+                        {
+                            "projectName": "cloud power" ,
+                            "projectAttr": "cloud-power"  ,
+                            "projectDesc": "cloud power is psd design build with HTML, and CSS in responsive design for all screens . " ,
+                            "projectURL": "https://toqa-25.github.io/html-email-1/",
+                            "projectImg": "cloud-power.png"
+                        }
+                         
+                  
+            
+        ]           
+       
+    }
+    ,
+    "FigmaFiles" :
+    {
+        "landing-page": [
+                            {
+                                "projectName": "meet landing page" ,
+                                "projectAttr": "meet-landing-page"  ,
+                                "projectDesc": "meet agency is figma design build with HTML, and CSS in responsive design for all screens, it is  from frontendmentor  website " ,
+                                "projectURL": "https://toqa-25.github.io/landing-meeting-page/",
+                                "projectImg": "meet-landing-page.png"
+                            }          
+        ]           
+       
     }
 }

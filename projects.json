@@ -136,5 +136,25 @@
                 "projectImg": "quiz-app.png"
                 }
         ]
-    } 
+    } ,
+   "BootstrapProjects" :
+    {
+        "websites" : [
+                    {
+                        "projectName": "bondi website" ,
+                        "projectAttr": "bondi-website"  ,
+                        "projectDesc": "hospital website is psd design build with HTML, CSS, Bootstrap, and JS in responsive design for all screens, this website consist of 3 pages.this design from grophberry website. ",
+                        "projectURL": "https://toqa-25.github.io/Bondi/",
+                        "projectImg": "bondi.png"
+                    }],
+      "landingPages" : [
+                        {
+                            "projectName": "Luxestate is Real-Estate Company" ,
+                            "projectAttr": "Luxestate-Company"  ,
+                            "projectDesc": "Luxestate agency is PSD file build with HTML, and CSS in responsive design for all screens, it is  from grophberry website " ,
+                            "projectURL": "https://toqa-25.github.io/luxstate-project-/",
+                            "projectImg": "luxstate.png"
+                        }
+                        ]
+    }
 }

@@ -204,7 +204,7 @@
             {
                 "projectName": "Interno Design" ,
                 "projectAttr": "Interno-Design"  ,
-                "projectDesc": "Interno Design Figma design consist of 17 pags which designed by webflow, you can check figma design from this link : https://www.figma.com/file/oeD3OhRMrLMLNagefYkRHA/Interior-Design-Website-Template-(Community)?node-id=1%3A286&mode=dev . I converted it in HTML, CSS, SASS, and JS all of them responsive for all screens." ,
+                "projectDesc": "Interno Design Figma design consist of 17 pags which designed by webflow, you can check figma design from this link : https://www.figma.com/file/oeD3OhRMrLMLNagefYkRHA/Interior-Design-Website-Template-(Community)?node-id=1%3A286&mode=dev . I converted it in HTML, CSS, SCSS, and JS all of them responsive for all screens." ,
                 "projectURL": "https://toqa-25.github.io/Interno-Design/",
                 "projectImg": "Interno-Design.png"
             }
@@ -219,5 +219,31 @@
                             }          
         ]           
        
+    }
+    ,
+    "SCSSFiles" :
+    {
+        "websites" : [
+            {
+                "projectName": "Interno Design" ,
+                "projectAttr": "Interno-Design"  ,
+                "projectDesc": "Interno Design Figma design consist of 17 pags which designed by webflow, you can check figma design from this link : https://www.figma.com/file/oeD3OhRMrLMLNagefYkRHA/Interior-Design-Website-Template-(Community)?node-id=1%3A286&mode=dev . I converted it in HTML, CSS, SCSS, and JS all of them responsive for all screens." ,
+                "projectURL": "https://toqa-25.github.io/Interno-Design/",
+                "projectImg": "Interno-Design.png"
+            } ,
+            {
+                "projectName": "travel website" ,
+                "projectAttr": "travel-website"  ,
+                "projectDesc": "travel website is website build with HTML, CSS, JS, and SASS. It is consist of 5 pages in responsive design for all screens. in this design we used AOS liberary to make it more dynamic and more attractive." ,
+                "projectURL": "https://toqa-25.github.io/travel-website/",
+                "projectImg": "travel-website.png"
+            }, {
+                "projectName": "toqa portfolio" ,
+                "projectAttr": "toqa-portfolio"  ,
+                "projectDesc": "Toqa portfolio is my portfolio which I designed and write it's code to perpose my projects. I coded it in HTML, CSS, and JS in responsive design for all screens, it consists of 4 sections to - introduces myself to my clients . - present my projects , i added to options to my clients to show HTML&CSS projects or HTML&CSS&JS . - make contact my more introduces. - add my previous clients reviews . In settings section you can change special color, and you can change mode from dark to light, or the opposite." ,
+                "projectURL": "https://toqa-25.github.io/toqa-portfolio/",
+                "projectImg": "toqa-portfolio.png"
+            }
+        ]
     }
 }
